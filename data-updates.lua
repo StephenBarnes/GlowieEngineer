@@ -1,5 +1,4 @@
 local function glow(layer)
-	if type(layer) ~= "table" then return end
 	if layer.apply_runtime_tint then
 		layer.draw_as_glow = true
 		layer.blend_mode = "additive"
