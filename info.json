@@ -1,0 +1,11 @@
+{
+	"name": "GlowieEngineer",
+	"version": "1.0.0",
+	"title": "Glowie Engineers",
+	"author": "StephenB",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0"
+	],
+	"description": "Engineers glow in the dark"
+}
