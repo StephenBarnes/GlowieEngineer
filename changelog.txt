@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2025-07-04
+  Compatibility:
+    - Add optional dependency on Brighter Engineers, for compatibility. Brighter Engineers was made mainly to make this mod's glowing effect better.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-07-03
   Features:
